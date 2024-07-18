@@ -1,4 +1,3 @@
-import './style.css'
 import menuArray from "./data.js";
 
 const orderItems = []
