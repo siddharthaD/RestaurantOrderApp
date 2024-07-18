@@ -70,6 +70,8 @@ function removeItem(id)
         }
     }
 
+
+
     renderOrder()
 }
 function addItem(id)
